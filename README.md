@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# React Youtube API Search
 
 ![alt text](/src/assets/images/pugloca.png)
 
